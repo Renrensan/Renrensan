@@ -1,5 +1,5 @@
 ### Hi there I'm Pasha Renaisan👋
-I'm just a simple computer science student with interest in machine learning and front end development.
+I'm just a simple computer science fresh graduate with interest in machine learning and front end development. Skilled in various machine learning libraries especially Tensorflow, and also skilled in various front end development technologies such as React.js.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renrensan&count_private=true&show_icons=true&theme=codeSTACKr)
 
