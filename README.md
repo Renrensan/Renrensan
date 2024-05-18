@@ -1,5 +1,5 @@
 ### Hi there I'm Pasha Renaisan👋
-I'm just a simple computer science fresh graduate with interest in machine learning and full stack app development. Skilled in various machine learning libraries especially Tensorflow, and also skilled in various app development technologies such as React.js, Express, Nest.js, etc.
+A programmer with deep interest in machine learning and full stack app development. Skilled in various machine learning libraries especially Tensorflow, and also skilled in various app development technologies such as React.js, Express, Nest.js, etc.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renrensan&count_private=true&show_icons=true&theme=codeSTACKr)
 
